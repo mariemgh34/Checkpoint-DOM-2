@@ -1,0 +1,25 @@
+.text{
+    padding: 40px;
+    
+}
+.container{
+    background-color: brown;
+    width: 200px;
+    height: 150px;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: none;
+    
+}
+button{
+    background-color: cadetblue;
+    color: aliceblue;
+    padding: 20px 10px;
+    border-radius: 10px;
+    margin: 10px auto;
+    border: none;
+    display: block;
+}
+button:hover{
+    background-color: brown;
+}
